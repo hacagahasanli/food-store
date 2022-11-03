@@ -1,0 +1,25 @@
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  font-family: "Cairo", sans-serif;
+}
+
+.login__icon{
+    position: absolute;
+    top:1rem;
+}
+
+.mail__outline{
+    position: relative;
+    right:4rem;
+    padding: 1rem;
+    font-size: larger;
+}
