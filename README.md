@@ -1,6 +1,12 @@
-Food Store
+ Food Store
 
  Using React and Redux/toolkit
-Styled Components
-
-Considered For Private Stores 
+ Styled Components
+ 
+ Well Designed FoodStore website 
+ Well Structured Components Folders
+ 
+ Css written by using styled components
+ 
+  
+ Considered For Private Stores 
